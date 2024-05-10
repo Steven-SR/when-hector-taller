@@ -1,1 +1,19 @@
-hola papu, de momoento no temgo el codigo listo, pero aqu[i queda el git
+
+PAPU DESPIERTA
+
+HAY QUE PATCHNOTES 
+
+h ola - commit
+
+tst input
+++++
++...
+....
+....
+...*
+...*
+***.
+....
+
+final=[['+', '+', '+', '+'], ['+', '.', '.', '.'], ['.', '.', '.', '.'], ['.', '.', '.', '.']]
+[['.', '.', '.', '*'], ['.', '.', '.', '*'], ['*', '*', '*', '.'], ['.', '.', '.', '.']]
