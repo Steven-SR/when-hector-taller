@@ -15,6 +15,6 @@ for _ in range(cant):
 
 ######test input
 for xd in range(len(final)):
-    print(final[xd])
+    print(final[1])
 ############################
 
